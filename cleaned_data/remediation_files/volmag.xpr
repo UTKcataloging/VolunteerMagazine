@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="22.1">
+    <meta>
+        <filters directoryPatterns="" filePatterns="\Qvolmag.xpr\E" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options/>
+    </meta>
+    <projectTree name="volmag.xpr">
+        <folder path="."/>
+    </projectTree>
+</project>
