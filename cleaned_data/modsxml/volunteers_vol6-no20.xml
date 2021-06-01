@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">volunteers_vol6-no20</identifier>
+   <titleInfo>
+      <title>Tennessee Volunteers magazine / Smokey's tale, February 25, 1985</title>
+   </titleInfo>
+   <titleInfo supplied="yes">
+      <title>Tennessee Volunteers magazine, February 25, 1985</title>
+   </titleInfo>
+   <titleInfo type="alternative">
+      <title>Tennessee Volunteers magazine, volume 6, number 20</title>
+   </titleInfo>
+   <abstract/>
+   <tableOfContents>The DeVoe report - LSU holds off Vol rally for 87-82 victory - Vandy continues Volunteer skid - Smith bows out with 75-60 Auburn victory - Bama blisters nets in win - Atkins picked for Hall of Fame - Here they are: 23 new Volunteers - Notes on the numbers - Season stats - This week in Big Orange Country - TV schedule</tableOfContents>
+   <originInfo>
+      <dateIssued>February 25, 1985</dateIssued>
+      <dateIssued encoding="edtf" keyDate="yes">1985-02-25</dateIssued>
+      <publisher>University of Tennessee, Knoxville. Department of Athletics</publisher>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form>
+      <extent>9 pages</extent>
+   </physicalDescription>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85028338">
+      <topic>College sports</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85012111">
+      <topic>Basketball</topic>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n79109786">
+      <geographic>Knoxville (Tenn.)</geographic>
+      <cartographics>
+         <coordinates>35.96064, -83.92074</coordinates>
+      </cartographics>
+   </subject>
+   <classification authority="lcc">GV691.T45 S56</classification>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>text</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Tennessee Volunteers Magazine</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
